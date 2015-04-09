@@ -1,4 +1,4 @@
-FROM muojp/aspnet-docker:1.0.0-beta3
+FROM microsoft:aspnet-docker:1.0.0-beta3
 
 WORKDIR /
 
