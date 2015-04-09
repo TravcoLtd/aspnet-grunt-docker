@@ -1,4 +1,4 @@
-FROM microsoft/aspnet-docker:1.0.0-beta2
+FROM microsoft/aspnet:1.0.0-beta2
 
 WORKDIR /
 
