@@ -1,4 +1,4 @@
-FROM muojp/aspnet-docker:latest
+FROM microsoft/aspnet:latest
 
 WORKDIR /
 
